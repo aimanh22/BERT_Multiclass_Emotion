@@ -3,6 +3,6 @@ Emotion Detection in Text hasbeen a conventionally difficult task giventhe prese
 
 The report can be found on [BERT_Based_Emotion_Recognition](https://github.com/aimanh22/BERT_Multiclass_Emotion/blob/main/BERT_Based_Emotion_Recognition.pdf)
 
-The GloVe_LSTM_BiLSTM. ipynb contains code for models using GloVe embedding followed by LSTM and BiLSTM classifiers. The BERT_Keras.ipynb contains code for the BERT classifier.
+The GloVe_LSTM_BiLSTM.ipynb contains code for models using GloVe embedding followed by LSTM and BiLSTM classifiers. The BERT_Keras.ipynb contains code for the BERT classifier.
 
 Dataset Used: ISEAR.csv
