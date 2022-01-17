@@ -5,4 +5,4 @@ The report can be found on [BERT_Based_Emotion_Recognition](https://github.com/a
 
 The GloVe_LSTM_BiLSTM.ipynb contains code for models using GloVe embedding followed by LSTM and BiLSTM classifiers. The BERT_Keras.ipynb contains code for the BERT classifier.
 
-Dataset Used: ISEAR.csv
+Dataset Used: ISEAR.csv (Kaggle)
